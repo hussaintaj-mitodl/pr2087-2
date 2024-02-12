@@ -1,0 +1,17 @@
+leftnav:
+- identifier: b5154296-dbd6-4c7c-b513-3a8ff46e45c7
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
+  pageRef: "/pages/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8"
+  weight: 10
+- identifier: cabe9a31-1d48-45a5-b5e9-36c4d0be7fef
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
+  pageRef: "/resources/copy-of-\u062D\u0633\u06CC\u0646-\u062A\u0627\u062C_png"
+  weight: 20
+- identifier: a37db7d3-7d3e-4e9c-be03-5af7f24ef3f6
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
+  pageRef: "/resources/copy-of-\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8renamed_png"
+  weight: 30
+- identifier: b5579f79-801b-4f63-ac6b-eba31d301237
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
+  pageRef: /resources/copy-of-control_png
+  weight: 40
